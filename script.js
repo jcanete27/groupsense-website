@@ -5,7 +5,7 @@
 const APP_CONFIG = {
   downloadUrl: "https://github.com/jcanete27/groupsense-downloads/releases/latest/download/GroupSense.apk", // Example: https://github.com/YOUR_USERNAME/groupsense-downloads/releases/latest/download/GroupSense.apk
   version: "1.0.0",     // Optional: enter the actual release version, e.g. "1.0.0".
-  fileSize: "79 MB",    // Optional: enter the actual APK size, e.g. "45 MB".
+  fileSize: "83 MB",    // Optional: enter the actual APK size, e.g. "45 MB".
   supportEmail: "jcanete@groupsense.com" // Optional: enter your real support email address.
 };
 
